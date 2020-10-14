@@ -1,4 +1,4 @@
-def calcularpuntos():
+def calcularpuntosFRHH():
     #datos de entrada
     print('desempeño de los profesores:')
     print()
@@ -21,4 +21,4 @@ def calcularpuntos():
     #datos de salida
     print("es el monto que percibira el profesor")
 
-calcularpuntos()
+calcularpuntosFRHH()
