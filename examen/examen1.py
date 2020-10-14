@@ -1,4 +1,4 @@
-def calcularnotafinal():
+def calcularnotafinalFRHH():
     #datos de entrada
     primeraunidad=float(input("ingrese la nota de la primera unidad:"))
     segundaunidad=float(input("ingrese la nota de la segunda unidad:"))
@@ -9,4 +9,4 @@ def calcularnotafinal():
     #datos de salida
     print("la nota del del estidiante es: " , nota)
 
-calcularnotafinal()
+calcularnotafinalFRHH()
