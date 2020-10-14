@@ -1,4 +1,4 @@
-def definirsigno_correspondiente():
+def definirsigno_correspondienteFRHH():
     #datos de entrada
     operacion_suma=input("presiona la funcion 1 para saber las siguientes operaciones: ")
     #proceso
@@ -11,4 +11,4 @@ def definirsigno_correspondiente():
     #datos de salida
     print("son las operaciones aritmeticas correctas")
 
-definirsigno_correspondiente()
+definirsigno_correspondienteFRHH()
